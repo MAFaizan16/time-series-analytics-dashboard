@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database and generated runtime data
+logs.sqlite
+
+# Editors / operating systems
+.vscode/
+.DS_Store
+Thumbs.db
